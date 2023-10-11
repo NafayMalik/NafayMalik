@@ -34,7 +34,7 @@ I'm open to collaborating on projects related to Data Science, Machine Learning,
 Let's connect and work together to create impactful data-driven solutions!
 
 <!---
-NafayMalik/NafayMalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+NafayMalik/NafayMalik is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+You can click the Preview link to take a look.
 --->
 
