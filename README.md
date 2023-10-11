@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Nafay Malik
 
 Welcome to my GitHub profile! I'm currently pursuing an internship in Data Science at Netsol Technologies and hold a Bachelors in Computer Science from CUST Islamabad.
-I'm passionate about data and excited to learn and grow as a Data Scientist.
+I'm passionate about data and excited to learn and grow as a Data Scientist. 
 
 ## About Me
 
